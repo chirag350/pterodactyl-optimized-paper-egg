@@ -1,3 +1,5 @@
+settings:
+  warn-on-overload: false
 chunk-gc:
   period-in-ticks: 400
 spawn-limits:
